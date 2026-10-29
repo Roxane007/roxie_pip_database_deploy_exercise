@@ -1,0 +1,11 @@
+.git
+.venv
+venv
+.env
+.envrc
+__pycache__
+*.pyc
+*.csv
+data
+.vscode
+.cursor
