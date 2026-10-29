@@ -218,4 +218,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-*.csv
+class_dataset.csv
